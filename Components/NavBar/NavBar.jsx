@@ -27,7 +27,7 @@ const NavBar = () => {
       link: "/",
     },
     {
-      name: "Bridges",
+      name: "Bridge",
       link: "/",
     },
   ];
